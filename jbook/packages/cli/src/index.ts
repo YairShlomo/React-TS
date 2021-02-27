@@ -1,5 +1,3 @@
-// import serve from 'local-api';
-// serve();
 import { program } from 'commander';
 import { serveCommand } from './commands/serve';
 
